@@ -1,0 +1,1 @@
+[17-Aug-2017 14:34:53 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/jigarpatel1/public_html/wp-content/themes/jpsports/index.php on line 17
